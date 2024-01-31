@@ -1,6 +1,6 @@
 [submodule "P42.Utils"]
 	path = P42.Utils
-	url = https://github.com/baskren/P42.Utils
+	url = https://github.com/liteboxllc/P42.Utils
 [submodule "docs"]
 	path = docs
 	url = https://github.com/tomjoht/documentation-theme-jekyll
